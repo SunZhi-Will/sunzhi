@@ -1,4 +1,4 @@
 // Empty JS for your own code to be here
 $(document).ready(function(){
-  $(".cssload-wrap").fadeOut(3000);
+  $(".load").fadeOut(3000);
 });
